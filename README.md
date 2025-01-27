@@ -4,6 +4,7 @@
 - Deux *commandes* on était ajouté : 
      - `/banip` (Menu de banIP)  avec un boutons autre pour voir tout les joueurs en jeu et pouvoir ban le joueur choisi.
      - `/menuip` (Menu pour pouvoir aussi UnBanIP)
+- Systeme de logs configurable dans le **Json**.
 
 ## :no_entry: __Information__ : 
 - Vous avez pas le droit de vendre/approprié mon plugin,
